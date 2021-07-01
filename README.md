@@ -1,8 +1,8 @@
 ### Introduction
-    This repository represents chatbots that are deployed using CloudFormation templates from AWS. 
-    One stack is used to make the chatbot (QnABot), and another stack is used to deploy the chatbot 
-    onto a website (lex-web-ui). The relevant repositories and blog posts are listed in the
-    References section.
+    This repository represents chatbots that are deployed using CloudFormation templates from 
+    AWS. One stack is used to make the chatbot (QnABot), and another stack is used to deploy 
+    the chatbot onto a website (lex-web-ui). The relevant repositories and blog posts are listed 
+    in the References section.
 
     Each folder in this repository represents a chatbot that I have deployed. Each has a custom
     CSS file that I use to style the chatbot on the website. It also has a json file with the
@@ -20,10 +20,10 @@ ________________________________________________________________________________
 ### References
 QnABot: <br>
 
-[Repository](https://github.com/aws-samples/aws-ai-qna-bot)
-[Blog](https://aws.amazon.com/blogs/machine-learning/creating-a-question-and-answer-bot-with-amazon-lex-and-amazon-alexa/)
+[Repository](https://github.com/aws-samples/aws-ai-qna-bot){:target="_blank"} <br>
+[Blog](https://aws.amazon.com/blogs/machine-learning/creating-a-question-and-answer-bot-with-amazon-lex-and-amazon-alexa/){:target="_blank"}
 
 Lex Web UI: <br>
 
-[Repository](https://github.com/aws-samples/aws-lex-web-ui)
-[Blog](https://aws.amazon.com/blogs/machine-learning/deploy-a-web-ui-for-your-chatbot/)
+[Repository](https://github.com/aws-samples/aws-lex-web-ui){:target="_blank"} <br>
+[Blog](https://aws.amazon.com/blogs/machine-learning/deploy-a-web-ui-for-your-chatbot/){:target="_blank"}
