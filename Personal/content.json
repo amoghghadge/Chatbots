@@ -1,0 +1,272 @@
+﻿{
+  "qna": [
+    {
+      "qid": "QnABot.002",
+      "a": "Create and administer your questions and answers using the Q and A Bot Content Designer UI. End users ask questions using the Lex web UI which supports voice or chat, or using Alexa devices for hands free voice interaction. ",
+      "r": {
+        "title": "",
+        "imageUrl": ""
+      },
+      "type": "qna",
+      "q": [
+        "How do I use Q and A bot"
+      ]
+    },
+    {
+      "a": "The Q and A Bot uses Amazon Lex and Alexa to provide a natural language interface for your FAQ knowledge base, so your users can just ask a question and get a quick and relevant answer.",
+      "r": {
+        "title": "",
+        "imageUrl": ""
+      },
+      "qid": "QnABot.001",
+      "type": "qna",
+      "q": [
+        "What is Q and A Bot"
+      ]
+    },
+    {
+      "qid": "Admin.002",
+      "a": "Yes. Use the Content Designer to export your content as a JSON file. Maintain this file in your version control system or S3 bucket. Use the Designer UI Import feature to restore content from the JSON file.",
+      "r": {
+        "title": "",
+        "imageUrl": ""
+      },
+      "type": "qna",
+      "q": [
+        "Can I backup Q and A Bot content"
+      ]
+    },
+    {
+      "qid": "Admin.003",
+      "a": "Yes, the Content Designer has an import function which lets you load items from a formatted JSON file. You can create JSON files using the Export feature, or you can write your own tools to create JSON files from existing content such as a website FAQ page.",
+      "r": {
+        "title": "",
+        "imageUrl": ""
+      },
+      "type": "qna",
+      "q": [
+        "Can I import Q and A Bot content from a file"
+      ]
+    },
+    {
+      "qid": "Admin.005",
+      "a": "Use the Filter feature in the Questions tab to filter the items list based on the ID field. Or use the Test tab to list all the items that match a question.",
+      "r": {
+        "title": "",
+        "imageUrl": ""
+      },
+      "type": "qna",
+      "q": [
+        "How can I find specific Q and A items in the Designer UI"
+      ]
+    },
+    {
+      "qid": "Admin.001",
+      "a": "Use the Content Designer Question and Test tools to find your existing documents and edit them directly in the console. You can also export existing documents as a JSON file, make changes to the file, and re-import.",
+      "r": {
+        "title": "",
+        "imageUrl": ""
+      },
+      "type": "qna",
+      "q": [
+        "How do I modify Q and A Bot content"
+      ]
+    },
+    {
+      "qid": "Admin.004",
+      "a": "Use the Content Designer test tool to test a question, and check what items are returned, ranked in order of score. If the desired item does not have the highest score, then add the question to the item and run the test again. The desired item should now have the highest score. Take care not to create items with duplicate questions, to avoid unpredictable responses.",
+      "r": {
+        "title": "",
+        "imageUrl": ""
+      },
+      "type": "qna",
+      "q": [
+        "How do I troubleshoot and fix problems with Q and A Bot."
+      ]
+    },
+    {
+      "qid": "Amogh.006",
+      "a": "Some of Amogh's favorite rappers are Travis Scott, Kendrick Lamar, and Drake",
+      "type": "qna",
+      "q": [
+        "Who are Amogh's favorite rappers",
+        "Who does Amogh listen to"
+      ]
+    },
+    {
+      "qid": "Amogh.003",
+      "a": "Amogh is the nickname of a Hindu god",
+      "type": "qna",
+      "q": [
+        "What does Amogh's name mean",
+        "What is Amogh",
+        "Why is Amogh's name like that"
+      ]
+    },
+    {
+      "qid": "Amogh.005",
+      "a": "Amogh likes to listen to Rap and Hip-Hop",
+      "type": "qna",
+      "q": [
+        "What music does Amogh like",
+        "What kind of music does Amogh listen to"
+      ]
+    },
+    {
+      "qid": "Amogh.012",
+      "a": "Amogh's clubs/activities can be found in the Activities tab",
+      "type": "qna",
+      "q": [
+        "What clubs are Amogh in",
+        "What volunteer work does Amogh do",
+        "What activities does Amogh participate in",
+        "What honor societies is Amogh in"
+      ]
+    },
+    {
+      "qid": "Amogh.008",
+      "a": "Amogh's school information can be found in the Education tab",
+      "type": "qna",
+      "q": [
+        "What classes does Amogh take",
+        "What classes did Amogh take",
+        "What is Amogh's GPA",
+        "How does Amogh do in school",
+        "Is Amogh good at school"
+      ]
+    },
+    {
+      "qid": "Amogh.009",
+      "a": "Amogh took the ACT, and he scored a 34",
+      "type": "qna",
+      "q": [
+        "What is Amogh's standardized test score",
+        "What is Amogh's test score",
+        "What did Amogh get on the SAT",
+        "What is Amogh's SAT score",
+        "What did Amogh get on the ACT",
+        "What is Amogh's ACT score"
+      ]
+    },
+    {
+      "qid": "Amogh.010",
+      "a": "Amogh's skills can be found in the Skills tab",
+      "type": "qna",
+      "q": [
+        "What skills does Amogh have",
+        "What are some of Amogh's skills",
+        "What technical things is Amogh good at",
+        "What is Amogh good at"
+      ]
+    },
+    {
+      "qid": "Amogh.013",
+      "a": "Amogh's work experience can be found in the Work Experience tab",
+      "type": "qna",
+      "q": [
+        "What work experience does Amogh have",
+        "What work has Amogh done",
+        "What does Amogh work as"
+      ]
+    },
+    {
+      "qid": "Amogh.011",
+      "a": "Amogh's projects can be found in the Projects tab",
+      "type": "qna",
+      "q": [
+        "What projects does Amogh have",
+        "What projects has Amogh done",
+        "What projects does Amogh work on"
+      ]
+    },
+    {
+      "qid": "Amogh.014",
+      "a": "Amogh wants to go to a good Computer Science college",
+      "type": "qna",
+      "q": [
+        "What college does Amogh want to go to",
+        "What colleges is Amogh interested in"
+      ]
+    },
+    {
+      "qid": "QnaBot.004",
+      "a": "Ask me a question about Amogh, and I will try my best to answer",
+      "type": "qna",
+      "q": [
+        "How do I use this",
+        "How do I use you",
+        "What do I ask"
+      ]
+    },
+    {
+      "qid": "Amogh.007",
+      "a": "Amogh likes computer science, math, physics, chemistry, and spanish",
+      "type": "qna",
+      "q": [
+        "What subjects does Amogh like",
+        "What subjects do Amogh think are interesting",
+        "What classes does Amogh like",
+        "What classes do you like",
+        "What subjects do you think are interesting",
+        "What subjects do you like"
+      ]
+    },
+    {
+      "qid": "Amogh.001",
+      "a": "Yes, Amogh is very cool!",
+      "type": "qna",
+      "q": [
+        "Is Amogh a cool guy",
+        "Are you cool"
+      ]
+    },
+    {
+      "qid": "Amogh.002",
+      "a": "Amogh is 17 years old, and he is a Senior at Lake Braddock",
+      "type": "qna",
+      "q": [
+        "How old is Amogh",
+        "What grade is Amogh in",
+        "What is Amogh's class",
+        "Who is Amogh",
+        "How old are you",
+        "What grade are you in",
+        "What is your class"
+      ]
+    },
+    {
+      "qid": "QnaBot.003",
+      "a": "I am Amogh's chatbot. You can ask me anything about Amogh, and I will try my best to answer",
+      "type": "qna",
+      "q": [
+        "What are you",
+        "What do you do",
+        "What is this",
+        "Help",
+        "Who are you"
+      ]
+    },
+    {
+      "qid": "Amogh.004",
+      "a": "Amogh's favorite subject is Computer Science. He likes to work on projects and practice competitive programming",
+      "type": "qna",
+      "q": [
+        "What is Amogh's favorite subject",
+        "What is Amogh interested in",
+        "What does Amogh like doing",
+        "What is your favorite subject",
+        "What are your interests",
+        "What do you like",
+        "What subject do you like"
+      ]
+    },
+    {
+      "qid": "Amogh.015",
+      "a": "Nice to meet you, Amogh!",
+      "type": "qna",
+      "q": [
+        "This is Amogh"
+      ]
+    }
+  ]
+}
