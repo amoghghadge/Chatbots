@@ -1,0 +1,113 @@
+﻿{
+  "qna": [
+    {
+      "qid": "Doctor.001",
+      "a": "Hello! Ask a question to get started",
+      "type": "qna",
+      "q": [
+        "Hi",
+        "Hey",
+        "Hello",
+        "Good morning",
+        "Good afternoon"
+      ]
+    },
+    {
+      "qid": "Doctor.003",
+      "a": "This information can be found in the Services tab",
+      "type": "qna",
+      "q": [
+        "What issues does the doctor help with",
+        "What does the doctor specialize in",
+        "What mental health does the doctor help with",
+        "What are the doctor's clients",
+        "What ethnicity does the doctor work with",
+        "What age range are patients",
+        "What communities is the doctor involved with",
+        "What therapy does the doctor provide",
+        "What is the doctor's modality",
+        "What is the doctor's treatment approach"
+      ]
+    },
+    {
+      "qid": "Doctor.004",
+      "a": "Check the Appointments tab for this information",
+      "type": "qna",
+      "q": [
+        "How do I schedule an appointment",
+        "How much do visits cost",
+        "What is the pricing",
+        "What insurance plans are accepted",
+        "How do I pay",
+        "How are visits billed",
+        "How are appointments made"
+      ]
+    },
+    {
+      "qid": "Doctor.005",
+      "a": "Go to the Contact tab to find the doctor's contact information",
+      "type": "qna",
+      "q": [
+        "What is the doctor's office",
+        "What is the doctor's phone number",
+        "What is the doctor's email",
+        "How can I talk to the doctor",
+        "Can I meet the doctor",
+        "Where is the office"
+      ]
+    },
+    {
+      "qid": "Doctor.006",
+      "a": "Dr. Bhatia provides quality care to all her patients",
+      "type": "qna",
+      "q": [
+        "Is the doctor good"
+      ]
+    },
+    {
+      "qid": "Doctor.111",
+      "a": "I am good! Ask a question to get started",
+      "type": "qna",
+      "q": [
+        "How are you",
+        "How are you doing"
+      ]
+    },
+    {
+      "qid": "Doctor.002",
+      "a": "Information about Dr. Bhatia can be found on the Home tab",
+      "type": "qna",
+      "q": [
+        "Who is the doctor",
+        "Who is Dr Madhu Bhatia",
+        "What kind of doctor is this",
+        "What kind of doctor is Dr Madhu Bhatia",
+        "What type of doctor is this",
+        "What are the doctor's qualifactions",
+        "Doctor's qualifications",
+        "What are the doctors credentials",
+        "Is this doctor real",
+        "What is the doctor's certificate",
+        "Where did the doctor go to school",
+        "How long has this doctor been practicing",
+        "How old is the doctor"
+      ]
+    },
+    {
+      "qid": "Doctor.007",
+      "a": "You're welcome!",
+      "type": "qna",
+      "q": [
+        "Thumbs up"
+      ]
+    },
+    {
+      "qid": "Doctor.008",
+      "a": "Sorry!",
+      "type": "qna",
+      "q": [
+        "Thumbs down"
+      ]
+    }
+  ]
+}
