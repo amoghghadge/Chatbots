@@ -9,7 +9,7 @@
     questions and answers that the chatbot uses.
 
     The personal chatbot is available at amoghghadge.com
-    The doctor chatbot is available at [to be made]
+    The doctor chatbot is available at drmadhubhatia.com
 ___________________________________________________________________________________________________
 
 ### Hosting
